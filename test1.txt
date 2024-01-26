@@ -6,4 +6,4 @@ I have completed my MSc 2024
 I have started my full stack job in 2021
 I will join Mfile in December 2024
 Logo allignment is centered
-
+this text is added from main branch
